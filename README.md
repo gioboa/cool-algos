@@ -9,5 +9,5 @@ You can change input array inside xxx.test.js files and have fun with algos
 
 e.g.
 
-- with terminal go to bubble-sort folder
+- move your terminal inside insertion-sort folder
 - type in terminal -> node ./insertion-sort.test.js
